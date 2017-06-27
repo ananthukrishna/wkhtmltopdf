@@ -5,7 +5,7 @@ sudo wget  https://github.com/ananthukrishna/wkhtmltopdf/raw/master/wkhtmltox-
 
 Install the package using command
 
-dpkg -i wkhtmltox-0.12.1_linux-trusty-i386.deb
+dpkg -i wkhtmltox-0.12.1_linux-trusty-amd64.deb
 
 Copy wkhtmltoimage to /usr/bin location from /usr/local/bin by using below command
 
