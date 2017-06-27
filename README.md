@@ -1,7 +1,7 @@
 # wkhtmltopdf
 
 wkhtmltopdf for odoo , follow below steps
-sudo wget  https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-trusty-i386.deb
+sudo wget  https://github.com/ananthukrishna/wkhtmltopdf/raw/master/wkhtmltox-0.12.1_linux-trusty-amd64.deb
 
 Install the package using command
 
